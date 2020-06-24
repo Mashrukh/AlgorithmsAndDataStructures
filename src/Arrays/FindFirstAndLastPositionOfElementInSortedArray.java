@@ -63,7 +63,6 @@ public class FindFirstAndLastPositionOfElementInSortedArray {
     }
 
     public static void main(String[] args) {
-        System.out.println("hello");
         int[] nums = new int[]{5, 7, 7, 8, 8, 10};
         int target = 8;
         int[] result = searchRange(nums, target);
